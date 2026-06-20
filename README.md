@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/ax8d-banner.svg" />
+<img width="100%" src="./ax8d-banner.svg" />
 
 <br>
 
