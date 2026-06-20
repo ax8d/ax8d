@@ -95,36 +95,3 @@ mission:
 </a>
 
 </div>
-
-```
-
----
-
-### Or even better (more unique)
-
-Make it look like a network scan:
-
-````md
-```bash
-┌──(ax8d㉿security)-[~/contacts]
-└─$ nmap social.ax8d.me
-
-PORT     SERVICE      STATUS
-443/tcp  linkedin     OPEN
-443/tcp  medium       OPEN
-443/tcp  x            OPEN
-443/tcp  tryhackme    OPEN
-587/tcp  email        OPEN
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM)
-
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](YOUR_THM)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X)
-
-</div>
