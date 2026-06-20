@@ -1,103 +1,84 @@
 <div align="center">
 
-# Ahmed Haytham (Ax8d)
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=900&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;AI+Red+Teaming+Professional;Offensive+Security+Researcher;Finding+The+Cracks+Before+Adversaries+Do" />
-
-<br><br>
-
-## THREAT INTELLIGENCE DOSSIER
-
-<table>
-<tr>
-<td><b>Alias</b></td>
-<td>Ax8d</td>
-</tr>
-<tr>
-<td><b>Status</b></td>
-<td>Active</td>
-</tr>
-<tr>
-<td><b>Domain</b></td>
-<td>Offensive Security</td>
-</tr>
-<tr>
-<td><b>Focus</b></td>
-<td>Web Security • AI Red Teaming • Bug Bounty</td>
-</tr>
-</table>
+<img width="100%" src="./assets/ax8d-banner.svg" />
 
 <br>
 
-> I find the cracks before adversaries do — turning offensive expertise into hardened defense.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=FF2A2A&center=true&vCenter=true&width=1100&lines=Web+Application+Penetration+Tester;Bug+Bounty+Hunter;AI+Red+Teaming+Researcher;Offensive+Security+Operator;Breaking+Systems+Before+They+Break+You" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ax8d&label=ACCESS+VIEWS&color=8B0000&style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 👤 Identity Node
+
 <div align="center">
 
-## Specializations
+# Ahmed Haytham
+### Offensive Security • AI Red Teaming • Bug Bounty Research
+
+</div>
+
+---
+
+## 🧠 Operational Scope
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="250">
 
-### Web Security
+<td align="center" width="260">
 
-Authentication Testing
+### 🌐 Web Exploitation
 
-Authorization Testing
-
-Business Logic Flaws
-
-OWASP Top 10
+Authentication bypass  
+Authorization flaws  
+Business logic abuse  
+OWASP methodology
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
-### AI Red Teaming
+### 🔗 API Security
 
-Prompt Injection
-
-LLM Security
-
-Adversarial Testing
-
-Risk Assessment
+REST / GraphQL abuse  
+Broken access control  
+Mass assignment  
+API reconnaissance
 
 </td>
+
 </tr>
-
 <tr>
-<td align="center">
 
-### Bug Bounty
+<td align="center" width="260">
 
-Reconnaissance
+### 🤖 AI Security
 
-Attack Surface Mapping
-
-Vulnerability Discovery
-
-Responsible Disclosure
+Prompt injection  
+LLM jailbreak testing  
+Agent exploitation  
+Adversarial inputs
 
 </td>
 
-<td align="center">
+<td align="center" width="260">
 
-### API Security
+### 🎯 Attack Engineering
 
-REST APIs
-
-GraphQL
-
-Authorization Flaws
-
-API Abuse Cases
+Reconnaissance  
+Attack surface mapping  
+Exploit chaining  
+Responsible disclosure
 
 </td>
+
 </tr>
 </table>
 
@@ -105,74 +86,124 @@ API Abuse Cases
 
 ---
 
+## 🛠 Security Stack
+
+### Core Environment
+
 <div align="center">
 
-## Security Arsenal
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,mysql,postgres" />
+
+</div>
+
+### Offensive Tooling
+
+<div align="center">
+
+<img height="55" src="https://cdn.simpleicons.org/kalilinux" />
+<img height="55" src="https://cdn.simpleicons.org/owasp" />
+<img height="55" src="https://cdn.simpleicons.org/burp" />
+<img height="55" src="https://cdn.simpleicons.org/python" />
+<img height="55" src="https://cdn.simpleicons.org/docker" />
+
+</div>
+
+### Recon & Exploitation Utilities
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Nmap-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nuclei-FF2A2A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ffuf-CC0000?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📡 Live Telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ax8d&show_icons=true&bg_color=00000000&title_color=ff2a2a&text_color=ffffff&icon_color=ff2a2a&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ax8d&background=00000000&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a&sideNums=ffffff&currStreakNum=ffffff&dates=888888&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 Attack Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ax8d&bg_color=000000&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Network Endpoints
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="YOUR_DISCORD_URL">
+  <img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+
+<a href="YOUR_MEDIUM_URL">
+  <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000"/>
+</a>
+
+<a href="YOUR_BUGCROWD_URL">
+  <img src="https://img.shields.io/badge/Bugcrowd-FFFFFF?style=for-the-badge&logo=bugcrowd&logoColor=F26822"/>
+</a>
+
+</div>
+
+---
+
+## 🔒 Restricted Access
+
+<div align="center">
+
+<details>
+<summary><b>ACCESS LOG</b></summary>
 
 <br>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/Nuclei-4A90E2?style=for-the-badge)
+> Systems are not broken randomly. They are broken through patterns.
 
-<br><br>
+> Understanding a system means understanding its failure points.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+</details>
 
 </div>
 
 ---
 
-<div align="center">
-
-## Capability Overview
-
-```text
-Web Application Security    ████████████████
-Bug Bounty Hunting          ██████████████
-API Security                █████████████
-AI Red Teaming              ████████████
-Research & Analysis         ███████████
-```
-
-</div>
-
----
-
-<div align="center">
-
-## Connect With Me
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_MEDIUM">
-<img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-
-<a href="YOUR_X">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="YOUR_TRYHACKME">
-<img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
-</a>
-
-<br><br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe">
-
-</div>
-
----
+## ⚡ Mission Statement
 
 <div align="center">
 
 ### FIND • EXPLOIT • REPORT • SECURE
+
+<br>
+
+<i>
+Security is not about preventing every attack.  
+It is about discovering weaknesses before they are weaponized.
+</i>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff2a2a,25:8B0000,50:4d0000,75:1a0000,100:050505"/>
 
 </div>
