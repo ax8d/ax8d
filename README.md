@@ -102,7 +102,7 @@ Responsible disclosure
 
 <img height="55" src="https://cdn.simpleicons.org/kalilinux" />
 <img height="55" src="https://cdn.simpleicons.org/owasp" />
-<img height="55" src="https://cdn.simpleicons.org/burp" />
+<img height="55" src="https://cdn.simpleicons.org/burpsuite" />
 <img height="55" src="https://cdn.simpleicons.org/python" />
 <img height="55" src="https://cdn.simpleicons.org/docker" />
 
@@ -146,19 +146,19 @@ Responsible disclosure
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ax8d/">
   <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="YOUR_DISCORD_URL">
+<a href="https://discord.com/users/444556329588228096">
   <img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </a>
 
-<a href="YOUR_MEDIUM_URL">
+<a href="https://medium.com/@ax8d">
   <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000"/>
 </a>
 
-<a href="YOUR_BUGCROWD_URL">
+<a href="https://bugcrowd.com/h/ax8d">
   <img src="https://img.shields.io/badge/Bugcrowd-FFFFFF?style=for-the-badge&logo=bugcrowd&logoColor=F26822"/>
 </a>
 
@@ -177,7 +177,7 @@ Responsible disclosure
 
 > Systems are not broken randomly. They are broken through patterns.
 
-> Understanding a system means understanding its failure points.
+> Understanding a system means exposing its failure points.
 
 </details>
 
