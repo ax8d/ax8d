@@ -166,26 +166,7 @@ Responsible disclosure
 
 ---
 
-## 🔒 Restricted Access
-
-<div align="center">
-
-<details>
-<summary><b>ACCESS LOG</b></summary>
-
-<br>
-
-> Systems are not broken randomly. They are broken through patterns.
-
-> Understanding a system means exposing its failure points.
-
-</details>
-
-</div>
-
----
-
-## ⚡ Mission Statement
+## 👁‍🗨 My Vision
 
 <div align="center">
 
