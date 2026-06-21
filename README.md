@@ -162,6 +162,10 @@ Responsible disclosure
   <img src="https://img.shields.io/badge/Bugcrowd-FFFFFF?style=for-the-badge&logo=bugcrowd&logoColor=F26822"/>
 </a>
 
+<a href="https://profile.hackthebox.com/profile/019d4b6a-1626-70d6-b353-fe434fbc370e">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-FFFFFF?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
+
 </div>
 
 ---
