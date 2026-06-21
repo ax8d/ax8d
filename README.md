@@ -14,7 +14,7 @@
 
 ---
 
-## 👤 Identity Node
+## 👤 Personal Info
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Operational Scope
+## 🎯 Operational Scope
 
 <div align="center">
 
